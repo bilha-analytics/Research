@@ -13,7 +13,7 @@ The sampled train and test sets for MST-PAC
 
 The source codes of ST-PAC and MST-PAC
 
-Please run main.sh 
+Please run main.sh to execuate the training process of the models.
 
 
 
