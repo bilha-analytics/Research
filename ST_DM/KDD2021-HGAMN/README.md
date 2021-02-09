@@ -1,4 +1,4 @@
-# HGCMN
+# HGAMN
 
 # TrainData
 
